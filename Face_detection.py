@@ -325,4 +325,4 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-#morning
+#all other part
